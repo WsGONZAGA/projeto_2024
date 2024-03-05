@@ -1,8 +1,17 @@
 body{
     background-color: blue;
+    color: aqua;
+    display: flex
+    justify-content; space-aroud
+    
 }   
 
 
+
+
+
+
 .imagem-cabecalho{
-    width;20%
+    width;25%
+
 }
